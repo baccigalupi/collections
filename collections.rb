@@ -1,3 +1,8 @@
+# It works! Big improvement.
+
+# watch your indentation. Everything in the array should be indented by two spaces.
+# You don't need a space between hashes.
+# You have a trailing comma, that Ruby ignores, but is good to notice
 STUDENTS = [
 {
   :first_name => "John",
